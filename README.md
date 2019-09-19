@@ -9,3 +9,5 @@ information from prior time steps (in particular, each agent must make their cho
 of agents (but not their identity) that located at each pool and each pool's payoff for all prior time steps). 
 Agents are allowed to switch pools at the start of any time step, but to do so costs the agent a payment 
 of tau (where 0 <= tau). Initial pool choice costs nothing.
+
+![png](https://github.com/fabridamicelli/complexity_challenge_2018/blob/master/random_agents_summary_plot.png)
